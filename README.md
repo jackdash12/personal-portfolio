@@ -39,8 +39,9 @@ Contact: Provides a way for visitors to reach me.
 
 The writing style is professional, concise, and suitable for a student portfolio. The content will be updated as I gain experience.
 
+---------------------------------------
 4. Part 1 — Content Planning
------------------------------
+---------------------------------------
 
 1. What is your full name as you want it displayed professionally?
 
@@ -95,7 +96,10 @@ Answer: [State whether you will include a resume.] If included, it will be provi
 Answer: github   - https://github.com/jackdash12 
         LinkedIn - https://www.linkedin.com/in/jack-gold-347528392/ 
 
+---------------------------------------
 5. Part 2 — Design Planning
+---------------------------------------
+
 1. What overall style will best represent you?
 
 Answer: A modern, minimalist, professional design that emphasizes readability and presents technical work clearly.
@@ -144,7 +148,10 @@ Answer: The initial design emphasizes typography, color, and CSS-created visual 
 
 Answer: The design follows general modern portfolio principles, including simple navigation, clear introductions, and project-focused layouts.
 
+---------------------------------------
 6. Part 3 — Interactivity Planning
+---------------------------------------
+
 1. What interactive elements will your site include?
 
 Answer: Navigation links, calls-to-action, hover effects, a responsive mobile menu, and navigation highlighting based on the visible section.
@@ -165,7 +172,9 @@ Answer: Buttons and cards provide hover feedback. The mobile menu changes state 
 
 Answer: Interactivity makes navigation more intuitive, supports mobile usability, helps visitors identify their current section, and makes the website responsive without adding unnecessary complexity.
 
+---------------------------------------
 7. Information Organization
+---------------------------------------
 
 The website follows this hierarchy:
 
@@ -184,8 +193,9 @@ Professional name
 
 This structure makes the information easy to scan and allows visitors to reach important content quickly.
 
-
+---------------------------------------
 8. Visual Design and Wireframe
+---------------------------------------
 
 The desktop layout uses a horizontal navigation bar, a prominent introduction, and clearly separated content sections.
 
@@ -252,8 +262,10 @@ Design Rationale
 
 The wireframes illustrate the planned information hierarchy and responsive layout. The desktop design places navigation horizontally and arranges project cards side by side where space permits. The mobile design stacks the sections vertically to improve readability and usability on smaller screens.
 
-
+---------------------------------------
 9. Technical Overview
+---------------------------------------
+
 Technologies
 HTML5: Structures the content using semantic elements.
 CSS3: Controls colors, typography, layouts, and responsiveness.
@@ -277,7 +289,10 @@ Review the layout at desktop and mobile widths.
 Check the browser console for errors.
 Verify that the published website loads correctly.
 
+---------------------------------------
 10. External Resources
+---------------------------------------
+
 GitHub Pages documentation: https://docs.github.com/en/pages
 MDN HTML documentation: https://developer.mozilla.org/en-US/docs/Web/HTML
 MDN CSS documentation: https://developer.mozilla.org/en-US/docs/Web/CSS
@@ -286,7 +301,9 @@ MDN Intersection Observer API: https://developer.mozilla.org/en-US/docs/Web/API/
 
 The website uses plain HTML, CSS, and JavaScript without an external framework.
 
+---------------------------------------
 11. Timeline and Project Milestones
+---------------------------------------
 Milestone	Tasks	Status
 1. Planning	Answer questions and plan content	(Finished)
 2. Design	Select colors, typography, layout, and wireframes	(Finished)
@@ -296,6 +313,8 @@ Milestone	Tasks	Status
 6. Deployment	Publish through GitHub Pages	(Completed)
 7. Final review	Verify the repository and website links	Pending (inprogess)
 
+---------------------------------------
 12. Conclusion
+---------------------------------------
 
 This project applies web development fundamentals to a personal portfolio built from scratch. It combines content planning, visual design, responsive implementation, JavaScript interactivity, documentation, and deployment. The portfolio will grow as I gain experience and complete additional projects.
