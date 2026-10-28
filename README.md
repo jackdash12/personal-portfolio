@@ -35,6 +35,7 @@ Contact: Provides a way for visitors to reach me.
 The writing style is professional, concise, and suitable for a student portfolio. The content will be updated as I gain experience.
 
 4. Part 1 — Content Planning
+-----------------------------
 
 1. What is your full name as you want it displayed professionally?
 
