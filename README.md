@@ -80,7 +80,8 @@ Answer: [State whether you will include a resume.] If included, it will be provi
 
 13. What social or professional links will you include?***
 
-Answer: [Insert your GitHub, LinkedIn, or other professional profile links if available.] Only profiles intended for public sharing will be included.
+Answer: github   - https://github.com/jackdash12 
+        LinkedIn - https://www.linkedin.com/in/jack-gold-347528392/ 
 
 5. Part 2 — Design Planning
 1. What overall style will best represent you?
@@ -93,7 +94,7 @@ Answer: The website uses dark navy (#0B1120), light text (#F1F5F9), and blue acc
 
 3. What fonts will you use for headings and body text?
 
-Answer: Arial, with Helvetica and sans-serif fallbacks, is used throughout the site. It is widely available and readable without requiring external font downloads. Font sizes and weights create a visual hierarchy.
+Answer: The website uses the Inter sans-serif font for both headings and body text to create a clean, modern, and professional appearance. Inter provides good readability and gives the portfolio a sleek, minimalist look. Arial and Helvetica are included as fallback fonts if Inter cannot load.
 
 4. How will your design reflect your personality or field?
 
@@ -127,9 +128,9 @@ Answer: The website uses semantic HTML, a skip-to-content link, visible keyboard
 
 Answer: The initial design emphasizes typography, color, and CSS-created visual elements to keep the site lightweight. Relevant project screenshots or personal imagery may be added when available.
 
-12. What portfolio websites inspired your design?***
+12. What portfolio websites inspired your design?
 
-Answer: The design follows general modern portfolio principles, including simple navigation, clear introductions, and project-focused layouts. I will use MDN Web Docs and GitHub Pages documentation as technical references. The implementation is created specifically for this project.
+Answer: The design follows general modern portfolio principles, including simple navigation, clear introductions, and project-focused layouts.
 
 6. Part 3 — Interactivity Planning
 1. What interactive elements will your site include?
@@ -172,9 +173,7 @@ Professional name
 This structure makes the information easy to scan and allows visitors to reach important content quickly.
 
 
-## 8. Visual Design and Wireframe
-
-### Desktop Wireframe
+8. Visual Design and Wireframe
 
 The desktop layout uses a horizontal navigation bar, a prominent introduction, and clearly separated content sections.
 
@@ -205,8 +204,6 @@ The desktop layout uses a horizontal navigation bar, a prominent introduction, a
 |  FOOTER                                              |
 +------------------------------------------------------+
 ```
-
-### Mobile Wireframe
 
 The mobile layout stacks content vertically and uses a collapsible navigation menu to fit smaller screens.
 
@@ -239,7 +236,7 @@ The mobile layout stacks content vertically and uses a collapsible navigation me
 +------------------------------+
 ```
 
-### Design Rationale
+Design Rationale
 
 The wireframes illustrate the planned information hierarchy and responsive layout. The desktop design places navigation horizontally and arranges project cards side by side where space permits. The mobile design stacks the sections vertically to improve readability and usability on smaller screens.
 
@@ -255,10 +252,10 @@ GitHub Pages: Hosts the published website.
 Project File Structure
 text
 personal-portfolio/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+ index.html
+ style.css
+ script.js
+ README.md
 
 Testing Strategy
 Verify that all navigation links reach the correct sections.
@@ -279,17 +276,14 @@ The website uses plain HTML, CSS, and JavaScript without an external framework.
 
 11. Timeline and Project Milestones
 Milestone	Tasks	Status
-1. Planning	Answer questions and plan content	[Update status]
-2. Design	Select colors, typography, layout, and wireframes	[Update status]
-3. Development	Create HTML, CSS, and JavaScript files	[Update status]
-4. Testing	Test navigation, links, responsiveness, and accessibility	[Update status]
-5. Documentation	Complete and review README	In progress
-6. Deployment	Publish through GitHub Pages	Pending
-7. Final review	Verify the repository and website links	Pending
+1. Planning	Answer questions and plan content	(Finished)
+2. Design	Select colors, typography, layout, and wireframes	(Finished)
+3. Development	Create HTML, CSS, and JavaScript files	(Working)
+4. Testing	Test navigation, links, responsiveness, and accessibility	(inprogess)
+5. Documentation	Complete and review README	(In progress)
+6. Deployment	Publish through GitHub Pages	(Completed)
+7. Final review	Verify the repository and website links	Pending (inprogess)
+
 12. Conclusion
 
 This project applies web development fundamentals to a personal portfolio built from scratch. It combines content planning, visual design, responsive implementation, JavaScript interactivity, documentation, and deployment. The portfolio will grow as I gain experience and complete additional projects.
-
-13. Submission Links
-GitHub repository: [Insert repository URL]
-Live website: [Insert GitHub Pages URL]
