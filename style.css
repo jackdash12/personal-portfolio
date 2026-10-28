@@ -4,14 +4,14 @@
    ========================================= */
 
 :root {
-    --bg-dark: #0b1120;
-    --bg-card: #151f32;
-    --bg-alt: #101a2c;
+    --bg-dark: #000321;
+    --bg-card: #122447;
+    --bg-alt: #182742;
     --text-main: #f1f5f9;
     --text-muted: #b0bdd0;
-    --accent: #60a5fa;
-    --accent-hover: #93c5fd;
-    --border: #29374d;
+    --accent: #3e91f7;
+    --accent-hover: #add4ff;
+    --border: #1f3352;
 }
 
 * {
