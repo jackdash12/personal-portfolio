@@ -196,13 +196,13 @@ The desktop layout uses a horizontal navigation bar, a prominent introduction, a
 |  SKILLS & TECHNOLOGIES                               |
 |  [HTML]       [CSS]       [JavaScript]               |
 +------------------------------------------------------+
-|  PROJECTS                                             |
+|  PROJECTS                                            |
 |  [Project Card 1]              [Project Card 2]      |
 +------------------------------------------------------+
-|  CONTACT                                              |
-|  [Email Me]                                           |
+|  CONTACT                                             |
+|  [Email Me]                                          |
 +------------------------------------------------------+
-|  FOOTER                                               |
+|  FOOTER                                              |
 +------------------------------------------------------+
 ```
 
