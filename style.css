@@ -156,6 +156,7 @@ button:focus-visible {
     min-height: 570px;
     display: flex;
     align-items: center;
+    background: radial-gradient( ellipse at 80% 15%, rgba(37, 99, 235, 0.16), transparent 48% ), var(--bg-dark);
 }
 
 .hero-content {
