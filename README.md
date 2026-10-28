@@ -268,25 +268,41 @@ The wireframes illustrate the planned information hierarchy and responsive layou
 
 Technologies
 HTML5: Structures the content using semantic elements.
+
 CSS3: Controls colors, typography, layouts, and responsiveness.
+
 JavaScript: Implements interactive interface features.
+
 Visual Studio 2022: Development environment.
+
 GitHub: Stores and manages the source code.
+
 GitHub Pages: Hosts the published website.
+
 Project File Structure
-text
+
 personal-portfolio/
+ 
  index.html
+ 
  style.css
+
  script.js
+ 
  README.md
 
 Testing Strategy
+
 Verify that all navigation links reach the correct sections.
+
 Test the email link.
+
 Test the mobile menu and keyboard controls.
+
 Review the layout at desktop and mobile widths.
+
 Check the browser console for errors.
+
 Verify that the published website loads correctly.
 
 ---------------------------------------
