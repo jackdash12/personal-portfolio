@@ -22,9 +22,13 @@ The site is designed to help visitors understand my interests, skills, and exper
 The website uses five main sections:
 
 Home: Introduces me and my field of study.
+
 About: Describes my background, interests, and career goals.
+
 Skills: Lists technologies and skills I am learning or using.
+
 Projects: Showcases my portfolio website and other genuine work.
+
 Contact: Provides a way for visitors to reach me.
 
 The writing style is professional, concise, and suitable for a student portfolio. The content will be updated as I gain experience.
