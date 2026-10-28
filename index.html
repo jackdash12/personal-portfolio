@@ -1,0 +1,225 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="description"
+          content="The personal portfolio of a Computer Science student.">
+
+    <title>My Portfolio | Computer Science Student</title>
+
+    <!-- Connect the CSS stylesheet -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Load JavaScript after the HTML has been parsed -->
+    <script src="script.js" defer></script>
+</head>
+
+<body>
+    <!-- Keyboard users can skip directly to the main content -->
+    <a class="skip-link" href="#main-content">Skip to content</a>
+
+    <!-- Website header and navigation -->
+    <header class="site-header">
+        <nav class="navbar container" aria-label="Main navigation">
+            <a class="logo" href="#home">My<span>Portfolio</span></a>
+
+            <button class="menu-toggle"
+                    id="menu-toggle"
+                    type="button"
+                    aria-expanded="false"
+                    aria-controls="nav-links"
+                    aria-label="Open navigation menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+
+            <ul class="nav-links" id="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main id="main-content">
+        <!-- Home / introduction section -->
+        <section class="hero section" id="home">
+            <div class="container hero-content">
+                <p class="eyebrow">WELCOME TO MY PORTFOLIO</p>
+
+                <h1>
+                    Hello, I'm <span class="accent">Jack Gold</span>.
+                </h1>
+
+                <h2>Computer Programming & Information Systems Student</h2>
+
+                <p class="hero-description">
+                    I'm learning about computer science and web development
+                    and building my skills one project at a time.
+                    This portfolio will showcase my learning, projects,
+                    and professional goals.
+                </p>
+
+                <div class="hero-buttons">
+                    <a class="button button-primary" href="#projects">
+                        Explore My Projects
+                    </a>
+
+                    <a class="button button-secondary" href="#contact">
+                        Contact Me
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <!-- About section -->
+        <section class="section" id="about">
+            <div class="container">
+                <p class="eyebrow">GET TO KNOW ME</p>
+                <h2 class="section-title">About Me</h2>
+
+                <div class="about-content">
+                    <p>
+                        I am a Computer Programming & Information Systems Student student developing my
+                        understanding of programming, problem-solving,
+                        and technology. 
+                    </p>
+
+                    <p>
+                        My goal is to strengthen my technical skills,
+                        complete meaningful projects, and prepare for
+                        future opportunities in the technology field.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Skills section -->
+        <section class="section section-alt" id="skills">
+            <div class="container">
+                <p class="eyebrow">WHAT I'M LEARNING</p>
+                <h2 class="section-title">Skills & Technologies</h2>
+
+                <p class="section-intro">
+                    These are the technologies I'm focusing on.
+                </p>
+
+                <div class="skills-grid">
+                    <article class="skill-card">
+                        <h3>HTML</h3>
+                        <p>Structuring web pages and content.</p>
+                    </article>
+
+                    <article class="skill-card">
+                        <h3>CSS</h3>
+                        <p>Styling layouts and creating responsive designs.</p>
+                    </article>
+
+                    <article class="skill-card">
+                        <h3>JavaScript</h3>
+                        <p>Learning to add behavior and interactivity.</p>
+                    </article>
+
+                    <article class="skill-card">
+                        <h3>Problem-Solving</h3>
+                        <p>Developing logical thinking through practice.</p>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <!-- Projects section -->
+        <section class="section" id="projects">
+            <div class="container">
+                <p class="eyebrow">MY WORK</p>
+                <h2 class="section-title">Projects</h2>
+
+                <p class="section-intro">
+                    This section will feature projects I complete during
+                    my studies and independent learning.
+                </p>
+
+                <div class="projects-grid">
+                    <!-- Replace this placeholder with a real project -->
+                    <article class="project-card">
+                        <div class="project-number">PROJECT 01</div>
+                        <h3>Portfolio Website</h3>
+
+                        <p>
+                            This website is a project to practice HTML,
+                            CSS, JavaScript, responsive design, and
+                            publishing a website with GitHub Pages.
+                        </p>
+
+                        <p class="project-tech">
+                            HTML · CSS · JavaScript
+                        </p>
+
+                        <span class="project-status">
+                            In progress
+                        </span>
+                    </article>
+
+                    <!-- Add another project when you have one -->
+                    <article class="project-card">
+                        <div class="project-number">PROJECT 02</div>
+                        <h3>Future Project</h3>
+
+                        <p>
+                            A space for a future school assignment or
+                            personal project. Replace this text when
+                            you have work ready to showcase.
+                        </p>
+
+                        <p class="project-tech">
+                            Technologies to be determined
+                        </p>
+
+                        <span class="project-status">
+                            Planned
+                        </span>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <!-- Contact section -->
+        <section class="section section-alt" id="contact">
+            <div class="container">
+                <p class="eyebrow">LET'S CONNECT</p>
+                <h2 class="section-title">Contact Me</h2>
+
+                <p class="section-intro">
+                    Have a question or want to connect? Use the button
+                    below to prepare an email to me.
+                </p>
+
+                <!-- Email button -->
+                <a class="button button-primary"
+                   href="https://mail.google.com/mail/?view=cm&fs=1&to=goldjd79@farmingdale.edu"
+                   target="_blank"
+                   rel="noopener noreferrer">
+                    Email Me
+                </a>
+            </div>
+        </section>
+    </main>
+
+    <!-- Website footer -->
+    <footer class="site-footer">
+        <div class="container">
+            <p>
+                &copy; <span id="current-year"></span>
+                <span id="footer-name">Jack Gold</span>.
+                Built with HTML, CSS, and JavaScript.
+            </p>
+        </div>
+    </footer>
+</body>
+</html>
