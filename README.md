@@ -294,9 +294,13 @@ Verify that the published website loads correctly.
 ---------------------------------------
 
 GitHub Pages documentation: https://docs.github.com/en/pages
+
 MDN HTML documentation: https://developer.mozilla.org/en-US/docs/Web/HTML
+
 MDN CSS documentation: https://developer.mozilla.org/en-US/docs/Web/CSS
+
 MDN JavaScript documentation: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
 MDN Intersection Observer API: https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API
 
 The website uses plain HTML, CSS, and JavaScript without an external framework.
