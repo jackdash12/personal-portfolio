@@ -21,7 +21,9 @@ The target audience includes potential employers, internship recruiters, technol
 
 The site is designed to help visitors understand my interests, skills, and experience level quickly.
 
+---------------------------------------
 3. Content Strategy
+---------------------------------------
 
 The website uses five main sections:
 
