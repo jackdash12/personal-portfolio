@@ -283,13 +283,13 @@ Project File Structure
 
 personal-portfolio/
  
- index.html
+        index.html
  
- style.css
+         style.css
 
- script.js
+         script.js
  
- README.md
+         README.md
 
 Testing Strategy
 
