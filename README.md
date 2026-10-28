@@ -4,13 +4,16 @@
 ---------------------------------------
 This project involves designing and developing a personal portfolio website from scratch using HTML, CSS, and JavaScript. The website introduces me as a Computer Science student and showcases my skills, projects, professional goals, and contact information.
 
-The website will be hosted on GitHub Pages.
-
 Project Objectives
+
 Establish a professional online presence.
+
 Showcase my technical skills and learning progress.
+
 Present projects in an organized format.
+
 Apply responsive web design and JavaScript interactivity.
+
 Publish a functional website using GitHub Pages.
 
 ---------------------------------------
@@ -93,8 +96,11 @@ Answer: [State whether you will include a resume.] If included, it will be provi
 
 13. What social or professional links will you include?***
 
-Answer: github   - https://github.com/jackdash12 
-        LinkedIn - https://www.linkedin.com/in/jack-gold-347528392/ 
+Answer: 
+
+github   - https://github.com/jackdash12 
+
+LinkedIn - https://www.linkedin.com/in/jack-gold-347528392/ 
 
 ---------------------------------------
 5. Part 2 — Design Planning
