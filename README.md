@@ -1,6 +1,7 @@
 ﻿Personal Portfolio Website
+---------------------------------------
 1. Project Overview
-
+---------------------------------------
 This project involves designing and developing a personal portfolio website from scratch using HTML, CSS, and JavaScript. The website introduces me as a Computer Science student and showcases my skills, projects, professional goals, and contact information.
 
 The website will be hosted on GitHub Pages.
@@ -12,7 +13,9 @@ Present projects in an organized format.
 Apply responsive web design and JavaScript interactivity.
 Publish a functional website using GitHub Pages.
 
+---------------------------------------
 2. Target Audience
+---------------------------------------
 
 The target audience includes potential employers, internship recruiters, technology professionals, instructors, classmates, and other visitors interested in my work.
 
