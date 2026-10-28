@@ -92,9 +92,9 @@ Answer: Visitors are encouraged to explore my projects and use the Email Me butt
 
 12. Will you include a resume? In what format?***
 
-Answer: [State whether you will include a resume.] If included, it will be provided as a downloadable PDF.
+Answer: Not yet
 
-13. What social or professional links will you include?***
+13. What social or professional links will you include?
 
 Answer: 
 
