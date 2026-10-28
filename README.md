@@ -171,59 +171,78 @@ Professional name
 
 This structure makes the information easy to scan and allows visitors to reach important content quickly.
 
-8. Visual Design and Wireframe
-Desktop Wireframe
-text
-+--------------------------------------------------+
-| Logo                         Navigation          |
-+--------------------------------------------------+
-| INTRODUCTION                                     |
-| Hello, I'm [Your Name].                          |
-| Computer Science Student                         |
-| Brief introduction                               |
-| [Explore My Projects] [Contact Me]               |
-+--------------------------------------------------+
-| ABOUT ME                                         |
-| Background, interests, and career goals          |
-+--------------------------------------------------+
-| SKILLS & TECHNOLOGIES                            |
-| [HTML]       [CSS]       [JavaScript]    [Other] |
-+--------------------------------------------------+
-| PROJECTS                                         |
-| [Project Card 1]           [Project Card 2]      |
-+--------------------------------------------------+
-| CONTACT                                          |
-| [Email Me]                                       |
-+--------------------------------------------------+
-| Footer                                           |
-+--------------------------------------------------+
 
-Mobile Wireframe
-text
-+--------------------------+
-| Logo                Menu |
-+--------------------------+
-| Introduction             |
-| Name and role            |
-| [Explore Projects]       |
-| [Contact Me]             |
-+--------------------------+
-| About Me                 |
-+--------------------------+
-| Skills                   |
-| [HTML]                   |
-| [CSS]                    |
-| [JavaScript]             |
-+--------------------------+
-| Projects                 |
-| [Project Card 1]         |
-| [Project Card 2]         |
-+--------------------------+
-| Contact                  |
-| [Email Me]               |
-+--------------------------+
-| Footer                   |
-+--------------------------+
+## 8. Visual Design and Wireframe
+
+### Desktop Wireframe
+
+The desktop layout uses a horizontal navigation bar, a prominent introduction, and clearly separated content sections.
+
+```text
++------------------------------------------------------+
+|  LOGO                              NAVIGATION        |
++------------------------------------------------------+
+|                                                      |
+|  INTRODUCTION                                        |
+|  Hello, I'm [Your Name].                             |
+|  Computer Science Student                            |
+|  Brief professional introduction                     |
+|  [Explore My Projects]  [Contact Me]                 |
+|                                                      |
++------------------------------------------------------+
+|  ABOUT ME                                            |
+|  Background, interests, and career goals             |
++------------------------------------------------------+
+|  SKILLS & TECHNOLOGIES                               |
+|  [HTML]       [CSS]       [JavaScript]               |
++------------------------------------------------------+
+|  PROJECTS                                             |
+|  [Project Card 1]              [Project Card 2]      |
++------------------------------------------------------+
+|  CONTACT                                              |
+|  [Email Me]                                           |
++------------------------------------------------------+
+|  FOOTER                                               |
++------------------------------------------------------+
+```
+
+### Mobile Wireframe
+
+The mobile layout stacks content vertically and uses a collapsible navigation menu to fit smaller screens.
+
+```text
++------------------------------+
+|  LOGO                  MENU  |
++------------------------------+
+|  INTRODUCTION                |
+|  Hello, I'm [Your Name].     |
+|  Computer Science Student    |
+|  [Explore Projects]          |
+|  [Contact Me]                |
++------------------------------+
+|  ABOUT ME                    |
+|  Background and goals        |
++------------------------------+
+|  SKILLS                      |
+|  [HTML]                      |
+|  [CSS]                       |
+|  [JavaScript]                |
++------------------------------+
+|  PROJECTS                    |
+|  [Project Card 1]            |
+|  [Project Card 2]            |
++------------------------------+
+|  CONTACT                     |
+|  [Email Me]                  |
++------------------------------+
+|  FOOTER                      |
++------------------------------+
+```
+
+### Design Rationale
+
+The wireframes illustrate the planned information hierarchy and responsive layout. The desktop design places navigation horizontally and arranges project cards side by side where space permits. The mobile design stacks the sections vertically to improve readability and usability on smaller screens.
+
 
 9. Technical Overview
 Technologies
