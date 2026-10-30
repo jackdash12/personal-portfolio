@@ -112,7 +112,7 @@ Answer: A modern, minimalist, professional design that emphasizes readability an
 
 2. What color scheme will you use and why?
 
-Answer: The website uses dark navy (#0B1120), light text (#F1F5F9), and blue accents (#60A5FA). This palette creates a consistent, technology-focused appearance and helps important links stand out.
+Answer: The website uses dark blue and navy background, light text, and blue accents. This palette creates a consistent, technology-focused appearance and helps important links stand out.
 
 3. What fonts will you use for headings and body text?
 
