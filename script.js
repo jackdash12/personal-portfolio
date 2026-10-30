@@ -1,8 +1,8 @@
-// JavaScript source code
 
-/* =========================================
-   1. Mobile navigation menu
-   ========================================= */
+
+
+//1. Mobile navigation menu
+   
 
 // Find the menu button and navigation links.
 const menuToggle = document.querySelector("#menu-toggle");
@@ -52,18 +52,14 @@ document.addEventListener("keydown", (event) => {
     }
 });
 
-/* =========================================
-   2. Automatically update the footer year
-   ========================================= */
+//2. Automatically update the footer year
 
 // This avoids having to update the copyright year manually.
 const currentYear = document.querySelector("#current-year");
 
 currentYear.textContent = new Date().getFullYear();
 
-/* =========================================
-   3. Highlight the current navigation section
-   ========================================= */
+//3. Highlight the current navigation section
 
 // Collect the page sections that have matching navigation links.
 const pageSections = document.querySelectorAll("main section");
