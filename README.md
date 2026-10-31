@@ -112,7 +112,7 @@ Answer: A modern, sleek, minimalist, design that emphasizes readability and pres
 
 2. What color scheme will you use and why?
 
-Answer: The website uses dark blue/navy background with cards being a lighter blue, light text, and blue accents. This palette creates a consistent, technology-focused appearance and helps important links stand out.
+Answer:  The website uses a dark navy blue background, lighter blue cards, white text, and gold accents. The gold highlights important elements, such as my name, navigation logo, buttons, and headings, while the white text maintains readability. This color scheme creates a professional, polished appearance and gives the portfolio a consistent gold-and-white identity while maintaining a technology-focused design.
 
 3. What fonts will you use for headings and body text?
 
@@ -120,7 +120,7 @@ Answer: The website uses the Inter sans-serif font for both headings and body te
 
 4. How will your design reflect your personality or field?
 
-Answer: The structured layout, navy background, blue accents, and project cards create a clean, technology-focused appearance. The design prioritizes usability over unnecessary decoration.
+Answer: The structured layout, dark navy background, gold accents, and project cards create a clean, professional, and technology-focused appearance. The gold-and-white color scheme reflects my personal style while giving the portfolio a polished and distinctive look. The design prioritizes organization, readability, and usability over unnecessary decoration, reflecting the problem-solving and attention to detail important in computer programming and information systems.
 
 5. What layout will your homepage follow?
 
