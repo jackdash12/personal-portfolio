@@ -7,11 +7,11 @@
     --bg-dark: #000321;
     --bg-card: #1a3569;
     --bg-alt: #00021e;
-    --text-main: #f1f5f9;
+    --text-main: #ffffff;
     --text-muted: #b0bdd0;
-    --accent: #3e91f7;
-    --accent-hover: #add4ff;
-    --border: #1f3352;
+    --accent: #D4AF37;
+    --accent-hover: #F5D76E;
+    --border: #4A4025;
 }
 
 * {
