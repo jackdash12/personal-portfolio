@@ -34,9 +34,9 @@ Home: Introduces me and my field of study.
 
 About: Describes my background, interests, and career goals.
 
-Skills: Lists technologies and skills I am learning or using.
+Skills: Lists technologies I am learning or using.
 
-Projects: Showcases my portfolio website and other genuine work.
+Projects: Showcases my portfolio website and other future work.
 
 Contact: Provides a way for visitors to reach me.
 
@@ -56,11 +56,11 @@ Answer: To introduce myself professionally, showcase my technical skills and pro
 
 3. Who is the target audience?
 
-Answer: Potential employers, internship recruiters, technology professionals, instructors, classmates, and visitors interested in my work.
+Answer: Potential employers, internship recruiters, technology professionals, and visitors interested in my work.
 
 4. What skills do you want to highlight?
 
-Answer: HTML, CSS, JavaScript, responsive web design, and problem-solving skills that I am developing through practice.
+Answer: HTML, CSS, JavaScript, and responsive web design.
 
 5. What projects or work will you showcase?
 
@@ -80,7 +80,7 @@ Answer: My goal is to continue developing my technical skills and prepare for op
 
 9. What technologies or tools do you have experience with?
 
-Answer: HTML, CSS, and JavaScript are used to build this website. Visual Studio 2022 is my development environment, and GitHub and GitHub Pages will be used to store and publish the project.
+Answer: HTML, CSS, and JavaScript are used to build this website. Visual Studio is my development environment, and GitHub and GitHub Pages will be used to store and publish the project.
 
 10. What achievements or experiences are worth highlighting?
 
@@ -90,7 +90,7 @@ Answer: Developing this portfolio demonstrates my work in planning, building, te
 
 Answer: Visitors are encouraged to explore my projects and use the Email Me button to contact me.
 
-12. Will you include a resume? In what format?***
+12. Will you include a resume? In what format?
 
 Answer: Not yet
 
@@ -108,11 +108,11 @@ LinkedIn - https://www.linkedin.com/in/jack-gold-347528392/
 
 1. What overall style will best represent you?
 
-Answer: A modern, minimalist, professional design that emphasizes readability and presents technical work clearly.
+Answer: A modern, sleek, minimalist, design that emphasizes readability and presents technical work clearly.
 
 2. What color scheme will you use and why?
 
-Answer: The website uses dark blue and navy background, light text, and blue accents. This palette creates a consistent, technology-focused appearance and helps important links stand out.
+Answer: The website uses dark blue/navy background with cards being a lighter blue, light text, and blue accents. This palette creates a consistent, technology-focused appearance and helps important links stand out.
 
 3. What fonts will you use for headings and body text?
 
@@ -148,11 +148,11 @@ Answer: The website uses semantic HTML, a skip-to-content link, visible keyboard
 
 11. Will you use icons, images, or illustrations? Why?
 
-Answer: The initial design emphasizes typography, color, and CSS-created visual elements to keep the site lightweight. Relevant project screenshots or personal imagery may be added when available.
+Answer: The initial design emphasizes typography, color, and CSS-created visual elements to keep the site lightweight. 
 
 12. What portfolio websites inspired your design?
 
-Answer: The design follows general modern portfolio principles, including simple navigation, clear introductions, and project-focused layouts.
+Answer: The design follows general modern portfolio principles, including simple navigation, clear introductions, and structured sections.
 
 ---------------------------------------
 6. Part 3 — Interactivity Planning
@@ -211,8 +211,8 @@ The desktop layout uses a horizontal navigation bar, a prominent introduction, a
 +------------------------------------------------------+
 |                                                      |
 |  INTRODUCTION                                        |
-|  Hello, I'm [Your Name].                             |
-|  Computer Science Student                            |
+|  Hello, I'm Jack Gold.                               |
+|  CPIS Student                                        |
 |  Brief professional introduction                     |
 |  [Explore My Projects]  [Contact Me]                 |
 |                                                      |
@@ -240,8 +240,8 @@ The mobile layout stacks content vertically and uses a collapsible navigation me
 |  LOGO                  MENU  |
 +------------------------------+
 |  INTRODUCTION                |
-|  Hello, I'm [Your Name].     |
-|  Computer Science Student    |
+|  Hello, I'm Jack Gold.       |
+|  CPIS Student                |
 |  [Explore Projects]          |
 |  [Contact Me]                |
 +------------------------------+
@@ -273,13 +273,13 @@ The wireframes illustrate the planned information hierarchy and responsive layou
 ---------------------------------------
 
 Technologies
-HTML5: Structures the content using semantic elements.
+HTML: Structures the content using semantic elements.
 
-CSS3: Controls colors, typography, layouts, and responsiveness.
+CSS: Controls colors, typography, layouts, and responsiveness.
 
 JavaScript: Implements interactive interface features.
 
-Visual Studio 2022: Development environment.
+Visual Studio: Development environment.
 
 GitHub: Stores and manages the source code.
 
